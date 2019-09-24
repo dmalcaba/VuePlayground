@@ -14,8 +14,8 @@
         :key="index"
         @click="selectAnswer(index)"
         :class="answerClass(index)"
+        v-html="answer"
       >
-        {{ answer }}
       </b-list-group-item>
     </b-list-group>
 
