@@ -45,7 +45,7 @@ export default {
     currentQuestion: Object,
     next: Function,
     increment: Function,
-    numTotal: Object
+    numTotal: Number
   },
   data() {
     return {
