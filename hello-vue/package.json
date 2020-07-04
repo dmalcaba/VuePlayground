@@ -24,7 +24,8 @@
     "eslint-plugin-vue": "^5.0.0",
     "kind-of": "^6.0.3",
     "minimist": "^1.2.5",
-    "vue-template-compiler": "^2.6.11"
+    "vue-template-compiler": "^2.6.11",
+    "websocket-extensions": "^0.1.4"
   },
   "eslintConfig": {
     "root": true,
