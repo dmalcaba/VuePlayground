@@ -29,3 +29,13 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### To check for outdated packages
+
+`npm outdated`
+
+### To Update Packages
+
+`npm install [packagename] --save-dev`
+
+`npm update [packagename]`
